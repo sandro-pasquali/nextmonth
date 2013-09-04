@@ -1,0 +1,27 @@
+{
+	"name": "nextmonth",
+	"description": "About next month",
+	"version": "0.0.1",
+	"author": {
+		"name": "Sandro Pasquali",
+		"email": "spasquali@gmail.com",
+		"url": "http://www.the75.com"
+	},
+	"repository": {
+		"type"  : "git",
+		"url"   : "https://github.com/sandro-pasquali/nextmonth"
+	},
+	"bugs": {
+		"url": "https://github.com/sandro-pasquali/nextmonth/issues"
+	},
+	"engines": {
+		"node": ">= 0.10.0"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "http://opensource.org/licenses/MIT"
+	}],
+	"keywords": [
+		"nodejs"
+	]
+}
